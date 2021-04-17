@@ -1,4 +1,6 @@
 function adicionarFilme()
 {
-    console.log("Clicou")
+    console.log("Clicou app.js")
+
+
 }    
